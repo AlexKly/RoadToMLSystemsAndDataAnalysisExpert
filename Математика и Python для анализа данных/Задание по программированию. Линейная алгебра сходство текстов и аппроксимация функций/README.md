@@ -58,6 +58,7 @@
 <a href="submission-2.txt" download="" title="submission-2.txt">
 	<button>ТУТЬ ФАЙЛ</button>
 </a>
+<br>
 <a href="submission-1.txt" download="" title="submission-1.txt">
 	<button>ТУТЬ ФАЙЛ</button>
 </a>
