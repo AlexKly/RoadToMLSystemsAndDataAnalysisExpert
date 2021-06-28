@@ -1,4 +1,4 @@
-# RoadToMLSystemsAndDataAnalysisExpert
+# Road to ML Systems and data analysis expert
 
 <h2> Практикум и практические задания по модулю "Математика и Python анализа данных" </h2>
 <ol>
