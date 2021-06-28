@@ -4,4 +4,6 @@
 <ol>
   <li> Знакомство с синтаксисом Python </li>
   <li> Библиотеки NumPy, Matplotlib, SciPy, Pandas </li>
+  <li> Линейная алгебра. Векторы </li>
+  <li> Линейная алгебра. Матрицы </li>
 </ol>
