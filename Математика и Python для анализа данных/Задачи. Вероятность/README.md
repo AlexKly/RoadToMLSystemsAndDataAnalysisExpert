@@ -7,7 +7,7 @@
 		<br>
 		<table style = "width: 100%;">
 			<tr><th></th><th>O(I)</th><th>A(II)</th><th>B(III)</th><th>AB(IV)</th></tr> <!--ряд с ячейками заголовков-->
-			<tr><td>O(I)</td><td>+</td><td>+</td><td>+</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
+			<tr><td style = "width: 100px;">O(I)</td><td>+</td><td>+</td><td>+</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
 			<tr><td>A(II)</td><td>-</td><td>+</td><td>-</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
 			<tr><td>B(III)</td><td>-</td><td>-</td><td>+</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
 			<tr><td>AB(IV)</td><td>-</td><td>-</td><td>-</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
