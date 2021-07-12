@@ -1,13 +1,29 @@
-# Road to ML Systems and data analysis expert
+# Задачи: Вероятность
 
-<h2> Практикум и практические задания по модулю "Математика и Python для анализа данных" </h2>
 <ol>
-  <li> Знакомство с синтаксисом Python <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D0%BE%D0%BC%20Python"> ТУТЬ </a> </li>
-  <li> Библиотеки NumPy, Matplotlib, SciPy, Pandas <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8%20NumPy%2C%20Matplotlib%2C%20SciPy%2C%20Pandas"> ТУТЬ </a> </li>
-  <li> Линейная алгебра. Векторы <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.%20%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B"> ТУТЬ </a> </li>
-  <li> Линейная алгебра. Матрицы <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.%20%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B"> ТУТЬ </a> </li>
-  <li> Задание по программированию: Линейная алгебра: сходство текстов и аппроксимация функций <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.%20%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%20%D1%81%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9"> ТУТЬ </a> </li>
-  <li> Задание по программированию: Оптимизация в Python: глобальная оптимизация и оптимизация негладкой функции <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20Python%20%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B5%D0%B3%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8"> ТУТЬ </a> </li>
-  <li> Задачи. Вероятность <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.%20%D0%92%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C"> ТУТЬ </a> </li>
+	<li> Предположим, что в некоторой популяции до 60 лет доживает 50%, а до 80 лет — 20%. Какова вероятность (от 0 до 1), что случайно выбранный шестидесятилетний представитель популяции доживёт до восьмидесяти? Запишите ответ с точностью до одного знака после десятичной точки. </li>
+	<li>
+		<p> В следующей таблице представлены данные о совместимости групп крови при переливании плазмы: </p>
+		<br>
+		<table>
+			<tr><th></th><th>O(I)</th><th>A(II)</th><th>B(III)</th><th>AB(IV)</th></tr> <!--ряд с ячейками заголовков-->
+			<tr><td>O(I)</td><td>+</td><td>+</td><td>+</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
+			<tr><td>A(II)</td><td>-</td><td>+</td><td>-</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
+			<tr><td>B(III)</td><td>-</td><td>-</td><td>+</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
+			<tr><td>AB(IV)</td><td>-</td><td>-</td><td>-</td><td>+</td></tr> <!--ряд с ячейками тела таблицы-->
+		</table>
+		<p> (источник). В ячейке стоит плюс, если плазму донора из названия столбца можно переливать рецепиенту из названия строки. Так, плазму четвёртой группы можно переливать всем, а плазму первой — только носителям первой группы. </p>
+		<p> Среди жителей Австралии группы крови распределены следующим образом: </p>
+		<p> <i>P(I) = 0.49, P(II) = 0.38, P(III) = 0.1, P(IV) = 0.03.</i>
+		<p> Какова вероятность того, что плазму одного случайно выбранного австралийца можно перелить другому случайно выбранному австралийцу? </p>
+		<p> Дайте ответ от 0 до 1 с четырьмя знаками после десятичной точки. </p>
+ 	</li>
+	<li> В супермаркете 60% яблок из Турции и 40% яблок из Индии. 10% турецких и 15% индийских яблок — червивые. Какова вероятность, что яблоко, купленное в этом магазине, окажется червивым? Запишите ответ от 0 до 1 с двумя знаками после десятичной точки. </li>
+	<li> Представьте, что вы купили яблоко в магазине из предыдущей задачи, и оно оказалось червивым. Какова вероятность того, что оно из Турции, а не из Индии? </li>
+	<li>
+		<p> Журнал "Популярная механика" читает 6.4% целевой аудитории вашего продукта, а журнал "Кот Шрёдингера" — 3.7%. Если вы разместите рекламу в обоих журналах, что можно сказать о доле pp целевой аудитории, которая увидит рекламу хотя бы один раз? </p>
+		<ul>
+			<li> <i> p &#8804; </i> </li>
+		</ul>
+	</li>
 </ol>
-
