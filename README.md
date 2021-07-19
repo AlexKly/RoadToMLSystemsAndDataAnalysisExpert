@@ -12,4 +12,5 @@
 	<li> Вероятность и случайные величины <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Вероятность%20и%20случайные%20величины"> ТУТЬ </a> </li>
 	<li> Статистика <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Статистика"> ТУТЬ </a> </li>
 	<li> Задание по программированию. Центральная предельная теорема своими ручками <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Задание%20по%20программированию.%20Центральная%20предельная%20теорема%20своими%20ручками"> ТУТЬ </a> </li>
+	<li> Оценка качества вин <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Оценка%20качества%20вин"> ТУТЬ </a> </li>
 </ol>
