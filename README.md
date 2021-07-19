@@ -11,4 +11,5 @@
 	<li> Задачи. Вероятность <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B8%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.%20%D0%92%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C"> ТУТЬ </a> </li>
 	<li> Вероятность и случайные величины <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Вероятность%20и%20случайные%20величины"> ТУТЬ </a> </li>
 	<li> Статистика <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Статистика"> ТУТЬ </a> </li>
+	<li> Задание по программированию. Центральная предельная теорема своими ручками <a href="https://github.com/AlexKly/RoadToMLSystemsAndDataAnalysisExpert/tree/main/Математика%20и%20Python%20для%20анализа%20данных/Задание%20по%20программированию.%20Центральная%20предельная%20теорема%20своими%20ручками"> ТУТЬ </a> </li>
 </ol>
